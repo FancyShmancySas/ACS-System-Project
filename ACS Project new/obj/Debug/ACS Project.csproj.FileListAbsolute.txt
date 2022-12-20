@@ -1,0 +1,45 @@
+D:\vikto\Documents\Institute\3 курс\ООП\Project\ACS Project\bin\Debug\ACS Project.exe.config
+D:\vikto\Documents\Institute\3 курс\ООП\Project\ACS Project\bin\Debug\ACS Project.exe
+D:\vikto\Documents\Institute\3 курс\ООП\Project\ACS Project\bin\Debug\ACS Project.pdb
+D:\vikto\Documents\Institute\3 курс\ООП\Project\ACS Project\obj\Debug\ACS Project.csproj.AssemblyReference.cache
+D:\vikto\Documents\Institute\3 курс\ООП\Project\ACS Project\obj\Debug\ACS Project.csproj.SuggestedBindingRedirects.cache
+D:\vikto\Documents\Institute\3 курс\ООП\Project\ACS Project\obj\Debug\ACS_Project.Properties.Resources.resources
+D:\vikto\Documents\Institute\3 курс\ООП\Project\ACS Project\obj\Debug\ACS Project.csproj.GenerateResource.cache
+D:\vikto\Documents\Institute\3 курс\ООП\Project\ACS Project\obj\Debug\ACS Project.csproj.CoreCompileInputs.cache
+D:\vikto\Documents\Institute\3 курс\ООП\Project\ACS Project\obj\Debug\ACS Project.exe
+D:\vikto\Documents\Institute\3 курс\ООП\Project\ACS Project\obj\Debug\ACS Project.pdb
+D:\vikto\Documents\Institute\3 курс\ООП\Project\ACS Project\bin\Debug\ACS Project for Arduino.mdb
+D:\vikto\Documents\Institute\3 курс\ООП\Project\ACS Project\obj\Debug\ACS_Project.Form1.resources
+D:\vikto\Documents\Institute\3 курс\ООП\Project\ACS Project\obj\Debug\ACS_Project.Form2_Add.resources
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\bin\Debug\ACS Project for Arduino.mdb
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\bin\Debug\ACS Project.exe.config
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\bin\Debug\ACS Project.exe
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\bin\Debug\ACS Project.pdb
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\obj\Debug\ACS Project.csproj.AssemblyReference.cache
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\obj\Debug\ACS Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\obj\Debug\ACS_Project.Form1.resources
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\obj\Debug\ACS_Project.Form2_Add.resources
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\obj\Debug\ACS_Project.Properties.Resources.resources
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\obj\Debug\ACS Project.csproj.GenerateResource.cache
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\obj\Debug\ACS Project.csproj.CoreCompileInputs.cache
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\obj\Debug\ACS Project.exe
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\obj\Debug\ACS Project.pdb
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\obj\Debug\ACS_Project.Form3_ControlAccess.resources
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\obj\Debug\ACS_Project.Form4_Update.resources
+C:\Users\Salex\Downloads\Telegram Desktop\ACS Project\ACS Project\obj\Debug\ACS_Project.Delete_Form5.resources
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\bin\Debug\ACS Project for Arduino.mdb
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\bin\Debug\ACS Project.exe.config
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\bin\Debug\ACS Project.exe
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\bin\Debug\ACS Project.pdb
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\obj\Debug\ACS Project.csproj.AssemblyReference.cache
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\obj\Debug\ACS Project.csproj.SuggestedBindingRedirects.cache
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\obj\Debug\ACS_Project.Delete_Form5.resources
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\obj\Debug\ACS_Project.Form1.resources
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\obj\Debug\ACS_Project.Form2_Add.resources
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\obj\Debug\ACS_Project.Form3_ControlAccess.resources
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\obj\Debug\ACS_Project.Form4_Update.resources
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\obj\Debug\ACS_Project.Properties.Resources.resources
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\obj\Debug\ACS Project.csproj.GenerateResource.cache
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\obj\Debug\ACS Project.csproj.CoreCompileInputs.cache
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\obj\Debug\ACS Project.exe
+D:\vikto\Documents\Institute\3 курс\ООП\ACS Project new\obj\Debug\ACS Project.pdb
